@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: EstateAgency
-Template URL: https://bootstrapmade.com/real-estate-agency-bootstrap-template/
-Author: BootstrapMade.com
+Template Name: Trooper T Canvas
+Template URL: troopert.co.zw
+Author: RocketFuel!
 License: https://bootstrapmade.com/license/
