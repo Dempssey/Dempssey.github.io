@@ -1969,7 +1969,6 @@ footer .credits {
 }
 /*--------------------------------------------------------------
 # 
-
 --------------------------------------------------------------*/
 .cta {
   background: linear-gradient(rgba(2, 2, 2, 0.7), rgba(0, 0, 0, 0.7)), url("../img/team.jpg") fixed center center;
@@ -2009,7 +2008,7 @@ footer .credits {
 # Cta1
 --------------------------------------------------------------*/
 .cta1 {
-  background: linear-gradient(rgba(2, 2, 2, 0.7), rgba(0, 0, 0, 0.7)), url("../img/awnings/awnings6.jpg") fixed center center;
+  background-image: url("../img/awnings/awnings6.jpg");
   background-size: cover;
   padding: 60px 0;
 }
