@@ -2009,7 +2009,7 @@ footer .credits {
 # Cta1
 --------------------------------------------------------------*/
 .cta1 {
-  background: linear-gradient(url("../img/awnings/awnings6.jpg") fixed center center;
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),url("../img/awnings/awnings6.jpg") fixed center center;
   background-size: cover;
   padding: 60px 0;
 }
