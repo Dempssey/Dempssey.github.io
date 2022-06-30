@@ -2008,7 +2008,7 @@ footer .credits {
 # Cta1
 --------------------------------------------------------------*/
 .cta1 {
-  background-image: url("../img/awnings/awnings6.jpg");
+  background-image: url("../img/awnings/awnings6.jpg")fixed center center;
   background-size: cover;
   padding: 60px 0;
 }
